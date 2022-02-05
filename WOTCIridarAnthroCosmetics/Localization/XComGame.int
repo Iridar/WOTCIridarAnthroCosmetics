@@ -1,0 +1,436 @@
+[X2DLCInfo_AnthroCosmetics]
+PartContentLabel = "Anthro Cosmetics Redux"
+PartContentSummary = "Control how often your soldiers will spawn with Anthro Cosmetics."
+
+;;; ############## ;;;
+;;;   FACEPAINTS   ;;;
+;;; ############## ;;;
+
+[CanineHeadOverlayBlack X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf/Fox/Hyena - Black Overlay"
+[FelineHeadOverlayBlack X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Feline - Black Overlay"
+[RatHeadOverlayBlack X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat - Black Overlay"
+
+;;; ############# ;;;
+;;;   RAT HEADS   ;;;
+;;; ############# ;;;
+
+[IRI_AnthroHead_Soldier_RatHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head"
+[IRI_AnthroHead_Soldier_RatHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head - Alt"
+[IRI_AnthroHead_Soldier_RatHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head"
+[IRI_AnthroHead_Soldier_RatHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head - Alt"
+
+[IRI_AnthroHead_Reaper_RatHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head"
+[IRI_AnthroHead_Reaper_RatHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head - Alt"
+[IRI_AnthroHead_Reaper_RatHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head"
+[IRI_AnthroHead_Reaper_RatHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head - Alt"
+
+[IRI_AnthroHead_Templar_RatHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head"
+[IRI_AnthroHead_Templar_RatHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head - Alt"
+[IRI_AnthroHead_Templar_RatHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head"
+[IRI_AnthroHead_Templar_RatHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head - Alt"
+
+[IRI_AnthroHead_Skirmisher_RatHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head"
+[IRI_AnthroHead_Skirmisher_RatHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head - Alt"
+[IRI_AnthroHead_Skirmisher_RatHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head"
+[IRI_AnthroHead_Skirmisher_RatHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Head - Alt"
+
+;;; ########### ;;;
+;;;   TATTOOS   ;;;
+;;; ########### ;;;
+
+[Tattoo_Leopard_Overlay X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Body Overlay"
+
+[Tattoo_Leopard_Black_Overlay X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Solid Color Overlay"
+
+[Tattoo_Cheetah_Overlay X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Body Overlay"
+
+[Tattoo_Tiger_Overlay X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Body Overlay"
+
+[Tattoo_Wolf_Overlay X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Body Overlay"
+
+[Tattoo_Fox_Overlay X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Body Overlay"
+
+[Tattoo_Hyena_Overlay X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Body Overlay"
+
+;;; ######### ;;;
+;;;   HEADS   ;;;
+;;; ######### ;;;
+
+[IRI_AnthroHead_LeopardHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Head"
+[IRI_AnthroHead_LeopardHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Head - Alt"
+[IRI_AnthroHead_LeopardHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Head"
+[IRI_AnthroHead_LeopardHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Head - Alt"
+
+[IRI_AnthroHead_CheetahHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Head"
+[IRI_AnthroHead_CheetahHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Head - Alt"
+[IRI_AnthroHead_CheetahHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Head"
+[IRI_AnthroHead_CheetahHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Head - Alt"
+
+[IRI_AnthroHead_TigerHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Head"
+[IRI_AnthroHead_TigerHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Head - Alt"
+[IRI_AnthroHead_TigerHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Head"
+[IRI_AnthroHead_TigerHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Head - Alt"
+
+[IRI_AnthroHead_WolfHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Head"
+[IRI_AnthroHead_WolfHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Head - Alt"
+[IRI_AnthroHead_WolfHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Head"
+[IRI_AnthroHead_WolfHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Head - Alt"
+
+[IRI_AnthroHead_FoxHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Head"
+[IRI_AnthroHead_FoxHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Head - Alt"
+[IRI_AnthroHead_FoxHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Head"
+[IRI_AnthroHead_FoxHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Head - Alt"
+
+[IRI_AnthroHead_HyenaHead X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Head"
+[IRI_AnthroHead_HyenaHead2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Head - Alt"
+[IRI_AnthroHead_HyenaHeadF X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Head"
+[IRI_AnthroHead_HyenaHeadF2 X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Head - Alt"
+
+
+;;; ############# ;;;
+;;;   PAWS LEGS   ;;;
+;;; ############# ;;;
+
+
+[CnvMed_Std_Paw_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs"
+[CnvMed_Std_Paw_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs"
+
+[PltLgt_Std_Paw_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs"
+[PltLgt_Std_Paw_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs"
+
+[PltMed_Std_Paw_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs"
+[PltMed_Std_Paw_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs"
+
+[PltHvy_Std_Paw_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs"
+[PltHvy_Std_Paw_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs"
+
+
+[PwrMed_Std_Paws_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs A"
+[PwrMed_Std_Paws_1_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs B"
+[PwrMed_Std_Paws_2_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs C"
+[PwrMed_Std_Paws_3_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs D"
+[PwrMed_Std_Paws_4_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs E"
+
+[PwrMed_Std_Paws_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs A"
+[PwrMed_Std_Paws_1_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs B"
+[PwrMed_Std_Paws_2_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs C"
+[PwrMed_Std_Paws_3_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs D"
+[PwrMed_Std_Paws_4_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs E"
+
+[PwrHvy_Std_Paws_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs A"
+[PwrHvy_Std_Paws_1_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs B"
+[PwrHvy_Std_Paws_2_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs C"
+[PwrHvy_Std_Paws_3_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs D"
+[PwrHvy_Std_Paws_4_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs E"
+
+[PwrHvy_Std_Paws_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs A"
+[PwrHvy_Std_Paws_1_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs B"
+[PwrHvy_Std_Paws_2_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs C"
+[PwrHvy_Std_Paws_3_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs D"
+[PwrHvy_Std_Paws_4_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs E"
+
+[PwrLgt_Std_Paws_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs A"
+[PwrLgt_Std_Paws_1_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs B"
+[PwrLgt_Std_Paws_2_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs C"
+[PwrLgt_Std_Paws_3_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs D"
+[PwrLgt_Std_Paws_4_M_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs E"
+
+[PwrLgt_Std_Paws_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs A"
+[PwrLgt_Std_Paws_1_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs B"
+[PwrLgt_Std_Paws_2_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs C"
+[PwrLgt_Std_Paws_3_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs D"
+[PwrLgt_Std_Paws_4_F_Legs X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Paw Legs E"
+
+;;; ########### ;;;
+;;;    TAILS    ;;;
+;;; ########### ;;;
+
+[Thighs_LeopardTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Tail"
+[Thighs_LeopardTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Tail"
+
+[Thighs_BlackLeopardTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Black Leopard Tail"
+[Thighs_BlackLeopardTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Black Leopard Tail"
+
+[Thighs_CheetahTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Tail"
+[Thighs_CheetahTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Tail"
+
+[Thighs_TigerTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Tail"
+[Thighs_TigerTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Tail"
+
+[Thighs_WolfTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Tail"
+[Thighs_WolfTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Tail"
+
+[Thighs_FoxTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Tail"
+[Thighs_FoxTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Tail"
+
+[Thighs_HyenaTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Tail"
+[Thighs_HyenaTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Tail"
+
+
+[Shins_LeopardTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Tail"
+[Shins_LeopardTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Tail"
+
+[Shins_BlackLeopardTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Black Leopard Tail"
+[Shins_BlackLeopardTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Black Leopard Tail"
+
+[Shins_CheetahTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Tail"
+[Shins_CheetahTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Tail"
+
+[Shins_TigerTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Tail"
+[Shins_TigerTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Tail"
+
+[Shins_WolfTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Tail"
+[Shins_WolfTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Tail"
+
+[Shins_FoxTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Tail"
+[Shins_FoxTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Tail"
+
+[Shins_HyenaTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Tail"
+[Shins_HyenaTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Tail"
+
+
+[TorsoDeco_LeopardTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Tail"
+[TorsoDeco_LeopardTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Leopard Tail"
+
+[TorsoDeco_BlackLeopardTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Black Leopard Tail"
+[TorsoDeco_BlackLeopardTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Black Leopard Tail"
+
+[TorsoDeco_CheetahTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Tail"
+[TorsoDeco_CheetahTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Cheetah Tail"
+
+[TorsoDeco_TigerTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Tail"
+[TorsoDeco_TigerTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Tiger Tail"
+
+[TorsoDeco_WolfTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Tail"
+[TorsoDeco_WolfTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Wolf Tail"
+
+[TorsoDeco_FoxTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Tail"
+[TorsoDeco_FoxTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Fox Tail"
+
+[TorsoDeco_HyenaTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Tail"
+[TorsoDeco_HyenaTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Hyena Tail"
+
+;;; ############### ;;;
+;;;    RAT TAILS    ;;;
+;;; ############### ;;;
+
+[Thighs_Reaper_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[Thighs_Reaper_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+[Thighs_Templar_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[Thighs_CnvReaper_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+[Thighs_Skirmisher_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[Thighs_Skirmisher_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+
+[Shins_Reaper_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[Shins_Reaper_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+[Shins_Templar_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[Shins_Templar_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+[Shins_Skirmisher_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[Shins_Skirmisher_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+
+[TorsoDeco_Reaper_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[TorsoDeco_Reaper_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+[TorsoDeco_Templar_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[TorsoDeco_Templar_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+[TorsoDeco_Skirmisher_RatTail_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+[TorsoDeco_Skirmisher_RatTail_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Tail"
+
+;;; ############## ;;;
+;;;    RAT LEGS    ;;;
+;;; ############## ;;;
+
+[Reaper_Legs_Cnv_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Reaper_Legs_Cnv_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Reaper_Legs_Plt_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Reaper_Legs_Plt_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Reaper_Legs_Pwr_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Reaper_Legs_Pwr_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+
+[Templar_Legs_Cnv_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Templar_Legs_Cnv_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Templar_Legs_Plt_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Templar_Legs_Plt_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Templar_Legs_Pwr_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Templar_Legs_Pwr_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+
+[Skirmisher_Legs_Cnv_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Skirmisher_Legs_Cnv_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Skirmisher_Legs_Plt_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Skirmisher_Legs_Plt_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Skirmisher_Legs_Pwr_RatPaw_M X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+[Skirmisher_Legs_Pwr_RatPaw_F X2BodyPartTemplate]
+DisplayName="<img src='img:///IRI_Anthro_UI.AnthroIcon' width='26' height='26' vspace='-4'>Rat Legs"
+

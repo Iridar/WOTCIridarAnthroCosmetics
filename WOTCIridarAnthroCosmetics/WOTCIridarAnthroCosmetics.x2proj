@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Guid>adc56428-c6c7-468c-9161-9819c914c626</Guid>
+    <Name>WOTCIridarAnthroCosmetics</Name>
+    <Description>A reupload of the original mod with some fixes and improvements.</Description>
+    <SteamPublishID>0</SteamPublishID>
+    <AssemblyName>WOTCIridarAnthroCosmetics</AssemblyName>
+    <RootNamespace>WOTCIridarAnthroCosmetics</RootNamespace>
+    <ProjectGuid>{b34a167d-9e15-49f6-9b65-7c48670b4ad0}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Config\Base" />
+    <Folder Include="Config\Compatibility" />
+    <Folder Include="Localization\" />
+    <Folder Include="ContentForCook" />
+    <Folder Include="CharacterPool" />
+    <Folder Include="Src" />
+    <Folder Include="Src\WOTCIridarAnthroCosmetics" />
+    <Folder Include="Src\WOTCIridarAnthroCosmetics\Classes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CharacterPool\Anthro Uniforms.bin">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\Base\XComEditor.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\Base\XComEngine.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\Base\XComGame.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\Compatibility\XComAppearanceManager_DEFAULT.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\XComContent.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Cheetah.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Common.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Fox.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Hyena.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Legs.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Leopard.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Rat.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Tiger.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_UI.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\IRI_Anthro_Wolf.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentForCook\Khajiit2_Content.upk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ContentOptions.json">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Localization\WOTCIridarAppearanceManager.int">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ReadMe.txt" />
+    <Content Include="ModPreview.jpg" />
+    <Content Include="Localization\XComGame.int" />
+    <Content Include="Src\WOTCIridarAnthroCosmetics\Classes\X2DLCInfo_AnthroCosmetics.uc">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <PropertyGroup>
+    <SolutionRoot>$(MSBuildProjectDirectory)\..\</SolutionRoot>
+    <ScriptsDir>$(SolutionRoot).scripts\</ScriptsDir>
+    <BuildCommonRoot>$(ScriptsDir)X2ModBuildCommon\</BuildCommonRoot>
+  </PropertyGroup>
+  <Import Project="$(BuildCommonRoot)XCOM2.targets" />
+</Project>

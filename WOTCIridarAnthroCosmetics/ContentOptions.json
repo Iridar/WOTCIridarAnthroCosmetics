@@ -1,0 +1,14 @@
+{
+    "sfStandalone": [
+        "IRI_Anthro_Cheetah",
+		"IRI_Anthro_Common",
+		"IRI_Anthro_Fox",
+		"IRI_Anthro_Hyena",
+		"IRI_Anthro_Legs",
+		"IRI_Anthro_Leopard",
+		"IRI_Anthro_Rat",
+		"IRI_Anthro_Tiger",
+		"IRI_Anthro_Wolf",
+		"IRI_Anthro_UI"
+    ]
+}
